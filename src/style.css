@@ -1,0 +1,27 @@
+html, body, h1{
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    position: absolute;
+    height: 400px;
+    font-size: 4rem;
+    opacity: 0.6;
+}
+
+h2{
+    position: absolute;
+    opacity: 0.6;
+}
+
+.radioMode{
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
