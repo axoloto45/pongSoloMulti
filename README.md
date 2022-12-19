@@ -8,7 +8,7 @@ I tried to recreate it in a web project.
 
 Solo mode
 
-![PongSolo](./src/pongSoloScreen.png)
+![PongSolo](./images/pongSoloScreen.png)
 
 * In solo, the goal is to stay alive the longest time possible.
 
@@ -22,7 +22,7 @@ Solo mode
 
 1v1 mode
 
-![Pong1v1](./src/pongMultiScreen.png)
+![Pong1v1](./images/pongMultiScreen.png)
 
 * This is the classic game, the first to 7 goals win the game.
 
